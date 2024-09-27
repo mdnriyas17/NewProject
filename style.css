@@ -1,0 +1,63 @@
+/* selector
+1. Universal selector
+2. Element selector
+3. Class selector
+4. ID selector
+5. Tag selector
+6. Attribute selector
+7. Pseudo-class selector
+8. Pseudo-element selector
+*/
+/* 
+*{ Universal selector
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+} */
+
+/* #heading1{ ID selector
+    color: red;
+} */
+
+/* .tw{ class selector 
+    color: brown;
+} */
+
+/* h1{ tag selector and element selector
+    color: red;
+} */
+
+/* / Selectors */
+/* 1. Universal selector
+2. Element selector
+3. Class selector
+4. ID selector
+5. Tag selector
+6. Attribute selector
+7. Pseudo-class selector
+8. Pseudo-element selector */
+
+/* 1. Universal selector ===> *{}  */
+/* 2. Element selector ===> h1{} */
+/* 3. Class selector ===> .{} */
+/* 4. ID selector ===> #{} */
+/* 5. Tag selector ===> h1{} */
+/* 6. Attribute selector ===> [{}] */
+/* 7. Pseudo-class selector ===> :{} */
+/* 8. Pseudo-element selector ===> ::{} */
+
+
+/* h1{
+    color: yellow !important;
+    
+}
+
+div{
+    width: 100px !important;
+    height: 100px !important;
+    background-color: orange !important;
+}
+.tw{
+    color: red ;
+    background-color: black;
+} */
